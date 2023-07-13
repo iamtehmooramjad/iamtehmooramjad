@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamtehmooramjad" target="blank"><img src="https://img.shields.io/twitter/follow/iamtehmooramjad?logo=twitter&style=for-the-badge" alt="iamtehmooramjad" /></a> </p>
 
-- 🔭 I’m currently working on **NRA (Audit Application)**
+- 🔭 I’m currently working on **NRA - National Retail Audit (Audit Application Backend)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Android,MERN**
 
