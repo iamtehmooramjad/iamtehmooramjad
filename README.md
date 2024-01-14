@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/iamtehmooramjad" target="blank"><img src="https://img.shields.io/twitter/follow/iamtehmooramjad?logo=twitter&style=for-the-badge" alt="iamtehmooramjad" /></a> </p>
 
-- 🔭 I’m currently working on **NRA - National Retail Audit (Audit Application Backend)**
+- 🔭 I’m currently working at **i2c Inc (Fintech)** as **Backend Developer**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java Spring**
 
-- 💬 Ask me about **Android,MERN**
+- 💬 Ask me about **Android,MERN, Java**
 
-- 📫 How to reach me **info@tehmooramjad.com**
+- 📫 How to reach me **iamtehmooramjad@gmail.com**
 
-- 📄 Know about my experiences [https://tehmooramjad.com/](https://tehmooramjad.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
