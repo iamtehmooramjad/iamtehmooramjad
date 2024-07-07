@@ -1,4 +1,4 @@
-![masterhead](https://media.licdn.com/dms/image/D4D16AQGneZB189YflA/profile-displaybackgroundimage-shrink_350_1400/0/1678211001965?e=1684972800&v=beta&t=vUNBWGE7yrnqvlQikkQVeLn6gKrQjZYmudH4L-X9UYY)
+![masterhead](https://media.licdn.com/dms/image/D4D16AQH1RduipR3noQ/profile-displaybackgroundimage-shrink_350_1400/0/1710270888061?e=1726099200&v=beta&t=flcinvKpd3q0IFNUZpdwyi3QAYUbYuTYZijzPHlET_o)
 <h1 align="center">Hi 👋, I'm Tehmoor Amjad</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
