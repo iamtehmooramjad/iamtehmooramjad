@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamtehmooramjad" target="blank"><img src="https://img.shields.io/twitter/follow/iamtehmooramjad?logo=twitter&style=for-the-badge" alt="iamtehmooramjad" /></a> </p>
 
-- 🔭 I’m currently working at **i2c Inc (Fintech)** as **Backend Developer**
+- 🔭 I’m currently working at **i2c Inc (Fintech)** as **Software Engineer**
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Java Spring/Hibernate**
 
-- 💬 Ask me about **Android,MERN, Java**
+- 💬 Ask me about **Android, MERN, Java, Kotlin**
 
 - 📫 How to reach me **iamtehmooramjad@gmail.com**
 
