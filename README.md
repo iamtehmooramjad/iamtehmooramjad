@@ -1,4 +1,4 @@
-![masterhead](https://media.licdn.com/dms/image/v2/D4D16AQH1RduipR3noQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710270888061?e=1741219200&v=beta&t=PfbkOxsXSGL0datMpF3MM0ZxbG6sFaFcJq1M17K0DsI)
+![masterhead](https://media.licdn.com/dms/image/v2/D4D16AQH1RduipR3noQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710270888061?e=1754524800&v=beta&t=lPti3U7-N3hJzMzRP2nGq0gDXUHIpKCE9qisNdXBgZs)
 <h1 align="center">Hi 👋, I'm Tehmoor Amjad</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamtehmooramjad" target="blank"><img src="https://img.shields.io/twitter/follow/iamtehmooramjad?logo=twitter&style=for-the-badge" alt="iamtehmooramjad" /></a> </p>
 
-- 🔭 I’m currently working at **i2c Inc (Fintech)** as **Software Engineer**
+- 🔭 I’m currently working at **i2c Inc (Fintech)** as **Sr. Software Engineer**
 
 - 🌱 I’m currently learning **Java Spring/Hibernate**
 
